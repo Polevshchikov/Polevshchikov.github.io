@@ -19863,7 +19863,7 @@ s=new M.acr()
 r=new M.act()
 q=b.a
 p=b.b
-o=C.c.ek(q?p/4:p/6)
+o=C.c.ek(q?p/6:p/4.5)
 n=new M.acq(b).$0()
 m=P.df(b.e,null)
 l=H.au(n)
@@ -66426,7 +66426,7 @@ U.a46.prototype={
 $1:function(a){return a.gha()},
 $S:14}
 U.a45.prototype={
-$2:function(a,b){var s=null,r=b.d,q=r?"4 \u0447\u0430\u0441\u0430":"6 \u0447\u0430\u0441\u043e\u0432"
+$2:function(a,b){var s=null,r=b.d,q=r?"6 \u0447\u0430\u0441\u043e\u0432":"4.5 \u0447\u0430\u0441\u0430"
 return new O.qS(r,new U.a44(this.a),new T.hN(C.eV,s,s,L.bZ(q,s,s,s,A.cm(s,s,s,s,s,s,s,s,s,s,s,s,s,C.cW,s,s,!0,s,s,s,s,s,s,s),s,s),s),s)},
 $S:445}
 U.a44.prototype={
