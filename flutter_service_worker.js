@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f1921eb48babbf32d8aa7794e2e23d0c",
-"index.html": "6eb8685a038fd3b068673916646b1484",
-"/": "6eb8685a038fd3b068673916646b1484",
-"main.dart.js": "66233047730caa34eac60b1e7c1a4ab1",
+"index.html": "d52c50ada2ad6e9612e0f2a18c5b8ed6",
+"/": "d52c50ada2ad6e9612e0f2a18c5b8ed6",
+"main.dart.js": "081f270e882565b36ae218c20a10be6b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/date.jpeg": "f771eb9aa8969c44e75bf746a6c9f22f",
 "assets/assets/images/icons.png": "254c4b5b6c17fbf58e5deeb93197f915",
-"assets/assets/files/calendar_2022.json": "4d52c1bd8aaa9ec6356d25990d64e8ab",
+"assets/assets/files/calendar_2022.json": "f5a653bba7a145b3766fe78be0284558",
 "assets/assets/files/calendar_2018.json": "dd836afcb50b22cb15212e31fa24967c",
 "assets/assets/files/calendar_2014.json": "4585e8504114a179ce6b59f67010d0ec",
 "assets/assets/files/calendar_2015.json": "e8c93addf7c3a122b2af3138ef18c797",
